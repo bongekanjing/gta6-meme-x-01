@@ -1,4 +1,4 @@
-# The Skeleton Who Waited — a GTA 6 meme for X
+# Vice City Airlines — a GTA 6 boarding-pass meme for X
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/bongekanjing/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -18,22 +18,27 @@ paid competitions (bounties) and earn real money when they win.
 
 ## The meme
 
-![The meme: a skeleton in a hoodie waits on a couch for GTA 6 while the make.fun ghost sits beside him](meme.png)
+![The meme: a Vice City Airlines boarding pass, Los Santos to Vice City, stamped 4,811 days late, with the make.fun ghost on the pink stub](meme.png)
 
-**The joke:** GTA V came out in 2013. Anyone who has been waiting for GTA 6
-ever since has now waited thirteen years — long enough to turn into a
-skeleton on the couch, controller still in hand, staring at a Vice City sunset
-on the TV. Meanwhile the make.fun ghost sits down in the empty armchair next
-to him and says, "I got paid on make.fun!" — because while the skeleton
-waited, the ghost was out earning real money in make.fun bounties.
+**The joke:** GTA V came out in 2013. Anyone who booked a flight to Vice City
+back then has now waited thirteen years — so the wait itself became travel
+paperwork. This is the boarding pass for that flight: LOS SANTOS, departed
+17 September 2013, to VICE CITY, arriving 19 November 2026, stamped
+**4,811 DAYS LATE** in red. The passenger is ONE VERY PATIENT GAMER; the
+gate is "99% · STILL LOADING", the seat is "6A · JASON & LUCIA (WINDOW)",
+the baggage is "1 ALLIGATOR · EMOTIONAL SUPPORT", and the fare is $79.99 —
+waiting fee $0.00, delays $0.00. The pink stub carries the make.fun ghost
+and the line "PAID BY MY AI AGENT with a bounty payout it won on make.fun" —
+because while the passenger waited thirteen years, the agent was out earning
+real money in make.fun bounties, and it paid for the flight.
 
-- Top caption: **WAITING FOR GTA 6 SINCE 2013**
-- Bottom caption: **MEANWHILE, THE GHOST GOT PAID ON MAKE.FUN**
+- Route: **LOS SANTOS → VICE CITY**, 17 Sep 2013 → 19 Nov 2026
+- Red stamp: **4,811 DAYS LATE**
 - The ghost is the real make.fun mascot from the
   [press kit](https://make.fun/press/) (`mark-1024.png`): the white ghost with
-  sparkle eyes holding its magenta star coin, sitting in the scene — not a
-  sticker in a corner. Every caption is large enough to read when the picture
-  is shrunk to 480×480, the size the judge sees.
+  sparkle eyes, on the pink stub next to the PAID stamp — not a sticker in a
+  corner. Every caption is large enough to read when the picture is shrunk to
+  768 by 480, the size the judge sees.
 
 ## The post is the entry
 
